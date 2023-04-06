@@ -1,6 +1,9 @@
 # custom_longlist
 
-Flutter Custom LongListView With Button Click
+Flutter Custom LongListView Widget
+
+## Screenshots
+<img src="/longlist_demo.png" height="400px"/> <img src="/screenshots/en_2.png" height="400px"/>
 
 ## Getting Started
 
